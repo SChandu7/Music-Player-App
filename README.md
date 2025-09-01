@@ -24,8 +24,8 @@ These instructions will help you get a copy of the project up and running on you
 ### Prerequisites
 
 - Flutter: Make sure you have Flutter installed. [Install Flutter](https://flutter.dev/docs/get-started/install)
-- Clone this repository: `git clone https://github.com/yourusername/your-repo.git`
-- Navigate to the project directory: `cd your-repo`
+- Clone this repository: `https://github.com/SChandu7/Music-Player-App`
+- Navigate to the project directory: `cd Music-Player-App`
 
 ### Dependencies
 
@@ -65,6 +65,6 @@ Contributions are welcome! If you encounter bugs or have suggestions, please [op
 - Shoutout to the Flutter community for their support and resources.
 ## Contact
 
-If you have any questions or suggestions regarding the Car Control Dashboard app, feel free to contact us at rh676838@gmail.com.
+If you have any questions or suggestions regarding the Car Control Dashboard app, feel free to contact us at chandrasekharsuragani532@gmail.com.
 
 
